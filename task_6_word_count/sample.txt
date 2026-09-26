@@ -1,0 +1,4 @@
+Python is simple, and Python is powerful.
+Learning python is fun!
+PYTHON makes file handling simple.
+Simple Python programs help beginners learn.

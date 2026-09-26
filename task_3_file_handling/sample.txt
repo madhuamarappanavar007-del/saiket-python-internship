@@ -1,0 +1,3 @@
+Python is easy to learn.
+Python is used for web development, automation, and data analysis.
+This file demonstrates basic file handling in Python.
